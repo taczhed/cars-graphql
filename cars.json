@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "age": 2005
+    },
+    {
+      "id": "2",
+      "brand": "Kia",
+      "model": "Rio",
+      "age": 2015
+    },
+    {
+      "id": "3",
+      "brand": "Audi",
+      "model": "A3 8V",
+      "age": 2013
+    },
+    {
+      "id": "4",
+      "brand": "Hyundai",
+      "model": "i20",
+      "age": 2018
+    }
+  ]
+}
